@@ -5,7 +5,7 @@
 I have developed a straightforward project titled "Google Drive Direct Link Generator Using Javascript." 
 This project enables users to effortlessly generate direct download links for any file stored on Google Drive with a single click.
 
-#### https://starkverma111.github.io/Discount-Calculator/
+#### https://starkverma111.github.io/Google-Drive-Direct-Link-Generator/
 
 ` Html | Bootstrap 5 | Javascript `
 
